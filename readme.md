@@ -1,18 +1,18 @@
 ### About Me
 
-🔭 **I’m currently working on**
+🔭 **I’m currently working on**  
 Transitioning into the tech field and building projects to sharpen my full-stack development skills.
 
-🤝 **I’m looking to collaborate on**
+🤝 **I’m looking to collaborate on**  
 Open-source projects or interesting web applications where I can contribute and keep learning.
 
-🌱 **I’m currently learning**
+🌱 **I’m currently learning**  
 Full-stack web development and database management to build complete, end-to-end applications.
 
-💬 **Ask me about**
+💬 **Ask me about**  
 JavaScript, React, database logic, or why I'm passionate about building clean code.
 
-⚡ **Fun fact**
+⚡ **Fun fact**  
 I'm obsessed with efficiency, I love finding the best way to do things and making the most out of every tool or resource I have.
 
 ---
